@@ -66,5 +66,5 @@ printf("Len:[%d]\n", len2);
 
 _printf("Unknown:[%r]\n");
 
-#### THIS PROJECT IS DEVELOPED BY YOSEPH ABEBE MEKONNEN & FASSIL BERHANE ####
+#### THIS PROJECT IS DEVELOPED BY YOSEPH MEKONNEN ABEBE & FASSIL BERHANE ####
 ###				ALX COHORT-7				 ####
